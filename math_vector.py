@@ -118,7 +118,7 @@ bond = distance
 angle = angle_d
 dihed = dihed_d
 
-
+'''
 #######
 # TESTS
 #######
@@ -164,3 +164,4 @@ def main ():
 
 if __name__ == "__main__":
     main()
+'''
